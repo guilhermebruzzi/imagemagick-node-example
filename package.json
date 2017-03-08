@@ -1,0 +1,14 @@
+{
+  "name": "imagemagick-node-example",
+  "version": "1.0.0",
+  "description": "Some examples using node gm package (https://github.com/aheckmann/gm) that uses image magick on mac os X to manipulate images.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Guilherme Bruzzi",
+  "license": "ISC",
+  "dependencies": {
+    "gm": "1.23.0"
+  }
+}
